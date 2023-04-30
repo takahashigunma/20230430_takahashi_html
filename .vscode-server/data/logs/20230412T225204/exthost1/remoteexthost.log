@@ -1,0 +1,15 @@
+2023-04-12 22:52:12.511 [info] Extension host with pid 123 started
+2023-04-12 22:52:12.568 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-04-12 22:52:12.568 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-04-12 22:52:12.921 [info] Lock '/home/takahashi/.vscode-server/data/User/workspaceStorage/9fc4dc48cd09033d42decbd47b2a176d/vscode.lock': Lock acquired.
+2023-04-12 22:52:13.570 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-04-12 22:52:13.570 [info] ExtensionService#_doActivateExtension yandeu.five-server, startup: true, activationEvent: '*'
+2023-04-12 22:52:14.393 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-04-12 22:52:14.393 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-04-12 22:52:15.988 [info] Eager extensions activated
+2023-04-12 22:52:15.989 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-04-12 22:52:15.990 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-04-12 22:52:15.990 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-04-12 23:20:35.459 [info] Extension host terminating: received terminate message from renderer
+2023-04-12 23:20:35.460 [info] Lock '/home/takahashi/.vscode-server/data/User/workspaceStorage/9fc4dc48cd09033d42decbd47b2a176d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-04-12 23:20:35.509 [info] Extension host with pid 123 exiting with code 0

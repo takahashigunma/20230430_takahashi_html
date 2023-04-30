@@ -1,0 +1,12 @@
+2023-04-10 16:50:35.260 [info] 
+
+
+
+
+2023-04-10 16:50:35.329 [info] Extension host agent started.
+2023-04-10 16:50:35.808 [info] [127.0.0.1][a43e6487][ManagementConnection] New connection established.
+2023-04-10 16:50:36.022 [info] [127.0.0.1][f0b69360][ExtensionHostConnection] New connection established.
+2023-04-10 16:50:40.691 [info] [127.0.0.1][f0b69360][ExtensionHostConnection] <123> Launched Extension Host Process.
+2023-04-10 16:51:10.526 [error] [File Watcher (universal)] restarting watcher after error: terminated by itself with code null, signal: SIGSEGV
+2023-04-10 17:31:03.985 [info] [127.0.0.1][a43e6487][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-04-10 17:31:04.148 [info] [127.0.0.1][f0b69360][ExtensionHostConnection] <123> Extension Host Process exited with code: 0, signal: null.

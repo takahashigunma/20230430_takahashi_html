@@ -1,0 +1,221 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>カフェテンプレート-デモサイト</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta property="og:title" content=""/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content=""/>
+<meta property="og:image" content=""/>
+<!-- CSSを読み込む -->
+<link href="https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c" rel="stylesheet"><!-- Googleフォント -->
+<link rel="stylesheet" media="all" href="css/sanitize.css.pagespeed.ce.R7Mgjya8ed.css"/><!-- リセットCSS -->
+<link rel="stylesheet" media="all" href="css/vegas.min.css.pagespeed.ce.XC3oFviSWf.css"/>
+<link rel="stylesheet" media="all" href="css/style.css.pagespeed.ce.zZZqUiI4zg.css"/><!-- 上書きCSS -->
+<!-- jsファイルを読み込む -->
+<script src="js/jquery-3.6.0.min.js.pagespeed.ce.j7j-5PzDzI.js"></script>
+<script src="js/vegas.min.js.pagespeed.ce.qEHG3JVMGw.js"></script>
+<script src="js/style.js.pagespeed.ce.-1AOKBRnBo.js"></script>
+<!-- Favicon -->
+<link rel="icon" type="image/png" href="img/xfavicon.png.pagespeed.ic._EF8ix2aFU.webp">
+</head>
+<body><noscript><meta HTTP-EQUIV="refresh" content="0;url='https://popo-design.net/template-pro/demo/cafe-lp/?PageSpeed=noscript'" /><style><!--table,div,span,font,p{display:none} --></style><div style="display:block">Please click <a href="https://popo-design.net/template-pro/demo/cafe-lp/?PageSpeed=noscript">here</a> if you are not redirected within a few seconds.</div></noscript>
+<div class="head"><!-- 画像指定はjs/sytle.js内 -->
+<div class="navblock">
+<div class="container">
+<div class="row">
+<div class="col span-12 header">
+<nav>
+<div id="open"></div>
+<div id="close"></div>
+<div id="navi">
+<ul>
+<li><a href="index.html">ホーム</a></li>
+<li><a href="index.html#1">お知らせ</a></li>
+<li><a href="index.html#2">メニュー</a></li>
+<li><a href="index.html#3">お問い合わせ</a></li>
+<li><a href="subpage.html">サブページ</a></li>
+</ul>
+</div>
+</nav>
+</div>
+</div>
+</div></div>
+<div>
+<h1>CAFE LP TEMPLATE<br>キャッチコピーが入ります<br><a href="#2" class="button">メニューはこちら</a></h1>
+</div></div>
+<main>
+<section class="catchback">
+<div class="catch">
+<h2>毎日通いたいカフェ</h2>
+<p>ここにキャッチコピーが入ります。<br>お店の宣伝やコンセプトなど。<br>売りなど魅せる文言を入力。</p>
+</div>
+</section>
+<section id="1" class="back-color">
+<div class="news">
+<h2>お知らせ</h2>
+<ul class="news-list">
+<li class="item"><!-- お知らせを増やす場合はliタグを丸ごとコピー -->
+<a href="#">
+<p class="date">2022/10/01</p>
+<p class="title">ここにお知らせが入りますここにお知らせが入りますここにお知らせが入ります</p>
+</a>
+</li>
+<li class="item">
+<a href="#">
+<p class="date">2022/10/01</p>
+<p class="title">ここにお知らせが入りますここにお知らせが入りますここにお知らせが入ります</p>
+</a>
+</li>
+<li class="item">
+<a href="#">
+<p class="date">2022/10/01</p>
+<p class="title">ここにお知らせが入りますここにお知らせが入りますここにお知らせが入ります</p>
+</a>
+</li>
+</ul>
+</div>
+</section>
+<section id="2" class="menuback">
+<h2>メニュー</h2>
+</section>
+<section>
+<div class="container center">
+<div class="row">
+<div class="col span-4">
+<div class="hoverbox"><!-- マウスホバーで画像を拡大 -->
+<script data-pagespeed-no-defer>//<![CDATA[
+(function(){for(var g="function"==typeof Object.defineProperties?Object.defineProperty:function(b,c,a){if(a.get||a.set)throw new TypeError("ES3 does not support getters and setters.");b!=Array.prototype&&b!=Object.prototype&&(b[c]=a.value)},h="undefined"!=typeof window&&window===this?this:"undefined"!=typeof global&&null!=global?global:this,k=["String","prototype","repeat"],l=0;l<k.length-1;l++){var m=k[l];m in h||(h[m]={});h=h[m]}
+var n=k[k.length-1],p=h[n],q=p?p:function(b){var c;if(null==this)throw new TypeError("The 'this' value for String.prototype.repeat must not be null or undefined");c=this+"";if(0>b||1342177279<b)throw new RangeError("Invalid count value");b|=0;for(var a="";b;)if(b&1&&(a+=c),b>>>=1)c+=c;return a};q!=p&&null!=q&&g(h,n,{configurable:!0,writable:!0,value:q});var t=this;
+function u(b,c){var a=b.split("."),d=t;a[0]in d||!d.execScript||d.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===c?d[e]?d=d[e]:d=d[e]={}:d[e]=c};function v(b){var c=b.length;if(0<c){for(var a=Array(c),d=0;d<c;d++)a[d]=b[d];return a}return[]};function w(b){var c=window;if(c.addEventListener)c.addEventListener("load",b,!1);else if(c.attachEvent)c.attachEvent("onload",b);else{var a=c.onload;c.onload=function(){b.call(this);a&&a.call(this)}}};var x;function y(b,c,a,d,e){this.h=b;this.j=c;this.l=a;this.f=e;this.g={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.i=d;this.b={};this.a=[];this.c={}}
+function z(b,c){var a,d,e=c.getAttribute("data-pagespeed-url-hash");if(a=e&&!(e in b.c))if(0>=c.offsetWidth&&0>=c.offsetHeight)a=!1;else{d=c.getBoundingClientRect();var f=document.body;a=d.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);d=d.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+d;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.g.height&&d<=b.g.width)}a&&(b.a.push(e),
+b.c[e]=!0)}y.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&z(this,b)};u("pagespeed.CriticalImages.checkImageForCriticality",function(b){x.checkImageForCriticality(b)});u("pagespeed.CriticalImages.checkCriticalImages",function(){A(x)});
+function A(b){b.b={};for(var c=["IMG","INPUT"],a=[],d=0;d<c.length;++d)a=a.concat(v(document.getElementsByTagName(c[d])));if(a.length&&a[0].getBoundingClientRect){for(d=0;c=a[d];++d)z(b,c);a="oh="+b.l;b.f&&(a+="&n="+b.f);if(c=!!b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),d=1;d<b.a.length;++d){var e=","+encodeURIComponent(b.a[d]);131072>=a.length+e.length&&(a+=e)}b.i&&(e="&rd="+encodeURIComponent(JSON.stringify(B())),131072>=a.length+e.length&&(a+=e),c=!0);C=a;if(c){d=b.h;b=b.j;var f;if(window.XMLHttpRequest)f=
+new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(r){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(D){}}f&&(f.open("POST",d+(-1==d.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}}
+function B(){var b={},c;c=document.getElementsByTagName("IMG");if(!c.length)return{};var a=c[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var d=0;a=c[d];++d){var e=a.getAttribute("data-pagespeed-url-hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].o&&a.height>=b[e].m)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b}var C="";u("pagespeed.CriticalImages.getBeaconData",function(){return C});
+u("pagespeed.CriticalImages.Run",function(b,c,a,d,e,f){var r=new y(b,c,a,e,f);x=r;d&&w(function(){window.setTimeout(function(){A(r)},0)})});})();
+
+pagespeed.CriticalImages.Run('/mod_pagespeed_beacon/','https://popo-design.net/template-pro/demo/cafe-lp/','bez6WDe7br',true,false,'u3dU5B9iHx4');
+//]]></script><img src="img/product.jpg" alt="ここに商品" class="hoverbox-img" data-pagespeed-url-hash="933808670" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<h3>ここにメニューが入ります</h3>
+<p>ここに説明文が入ります</p>
+</div>
+<div class="col span-4">
+<div class="hoverbox"><!-- マウスホバーで画像を拡大 -->
+<img src="img/product.jpg" alt="ここに商品" class="hoverbox-img" data-pagespeed-url-hash="933808670" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<h3>ここにメニューが入ります</h3>
+<p>ここに説明文が入ります</p>
+</div>
+<div class="col span-4">
+<div class="hoverbox"><!-- マウスホバーで画像を拡大 -->
+<img src="img/product.jpg" alt="ここに商品" class="hoverbox-img" data-pagespeed-url-hash="933808670" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<h3>ここにメニューが入ります</h3>
+<p>ここに説明文が入ります</p>
+</div>
+</div>
+<div class="row">
+<div class="col span-12 span-4-md">
+<div class="hoverbox"><!-- マウスホバーで画像を拡大 -->
+<img src="img/product.jpg" alt="ここに商品" class="hoverbox-img" data-pagespeed-url-hash="933808670" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<h3>ここにメニューが入ります</h3>
+<p>ここに説明文が入ります</p>
+</div>
+<div class="col span-6 span-4-md">
+<div class="hoverbox"><!-- マウスホバーで画像を拡大 -->
+<img src="img/product.jpg" alt="ここに商品" class="hoverbox-img" data-pagespeed-url-hash="933808670" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<h3>ここにメニューが入ります</h3>
+<p>ここに説明文が入ります</p>
+</div>
+<div class="col span-6 span-4-md">
+<div class="hoverbox"><!-- マウスホバーで画像を拡大 -->
+<img src="img/product.jpg" alt="ここに商品" class="hoverbox-img" data-pagespeed-url-hash="933808670" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<h3>ここにメニューが入ります</h3>
+<p>ここに説明文が入ります</p>
+</div>
+</div></div>
+<div>
+</div>
+</section>
+<section id="3" class="contactback">
+<h2>お問い合わせ</h2>
+</section>
+<section class="back-color">
+<div class="container">
+<div class="row gmap">
+<div class="col span-5">
+<h3>CAFE TEMPLATE</h3>
+<p>〒000-0000<br>ここに住所が入ります。ここに住所が入ります。ここに住所が入ります。ここに住所が入ります。ここに住所が入ります。ここに住所が入ります。ここに住所が入ります。</p>
+<p>電話：<a href="tel:00-0000-0000" class="tel">00-0000-0000</a></p><!-- スマホのみ電話番号をタップ -->
+<p><strong>＜最寄駅からの所要時間＞</strong><br>
+〇〇線〇〇駅より徒歩○分<br>
+駐車場なし・駐輪場あり</p>
+</div>
+<div class="col span-7">
+<!-- GoogleMap -->
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27814443.96425483!2d120.28897720705172!3d31.679877148840735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34674e0fd77f192f%3A0xf54275d47c665244!2z5pel5pys!5e0!3m2!1sja!2sjp!4v1555153587836!5m2!1sja!2sjp" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+<!-- /GoogleMap -->
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col span-12">
+<h3 class="stripe">メールフォーム</h3>
+<p>メールからのお問い合わせは下記のフォームよりご連絡ください。</p>
+<p><small>※業務上頂いた個人情報やご相談内容については秘密を厳守し、第三者に洩らすことは一切ありませんのでご安心ください。</small></p>
+<form method="post" action=""><!-- メールフォーム使用時はリンク先を追加 -->
+<table class="table full-width">
+<tbody>
+<tr>
+<th><label for="name">お名前</label></th>
+<td><input class="full-width" type="text" name="お名前" placeholder="名前を記入" required></td>
+</tr>
+<tr>
+<th><label for="email">メールアドレス</label></th>
+<td><input class="full-width" type="email" name="Email" placeholder="メールアドレスを記入" required></td>
+</tr>
+<tr>
+<th><label for="tel">お電話番号</label></th>
+<td><input class="full-width" type="tel" name="お電話番号" placeholder="お電話番号を記入" required></td>
+</tr>
+<tr>
+<th><label for="exampleMessage">お問い合わせ内容</label></th>
+<td><textarea class="full-width textarea" name="お問い合わせ内容" placeholder="用件をご記入ください …" required></textarea></td>
+</tr>
+</tbody>
+</table>
+<p class="center"><input class="button" type="submit" value="送　信"></p>
+</form>
+</div>
+</div>
+</div>
+</section>
+</main>
+<footer>
+<ul class="footermenu">
+<li><a href="index.html">ホーム</a></li>
+<li><a href="index.html#1">お知らせ</a></li>
+<li><a href="index.html#2">メニュー</a></li>
+<li><a href="index.html#3">お問い合わせ</a></li>
+<li><a href="subpage.html">サブページ</a></li>
+</ul>
+<ul class="snsicon">
+<li><a href="" target="_blank" rel="noopener"><img src="img/line-icon.png" alt="LINEのお問い合わせはこちら" data-pagespeed-url-hash="3504008389" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a></li>
+<li><a href="" target="_blank" rel="noopener"><img src="img/insta-icon.png" alt="Instagramはこちら" data-pagespeed-url-hash="3636594714" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a></li>
+</ul>
+<div class="copyright"><!-- コピーライト削除不可 削除ご希望のかたは有償にてお申込みください -->
+<a href="https://popo-design.net" target="_blank" rel="noopener"><small>Copyright © popodesign.</small></a>
+</div>
+<a id="pagetop" href="#"></a>
+</footer>
+</body>
+</html>

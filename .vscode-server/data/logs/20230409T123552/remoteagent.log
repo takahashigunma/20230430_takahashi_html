@@ -1,0 +1,25 @@
+2023-04-09 12:35:52.510 [info] 
+
+
+
+
+2023-04-09 12:35:52.545 [info] Extension host agent started.
+2023-04-09 12:35:52.747 [info] [127.0.0.1][ce9c8f53][ManagementConnection] New connection established.
+2023-04-09 12:35:53.206 [info] [127.0.0.1][b27b65b9][ExtensionHostConnection] New connection established.
+2023-04-09 12:35:53.234 [info] [127.0.0.1][b27b65b9][ExtensionHostConnection] <812> Launched Extension Host Process.
+2023-04-09 12:38:34.532 [info] Getting Manifest... yandeu.five-server
+2023-04-09 12:38:34.682 [info] Installing extension: yandeu.five-server
+2023-04-09 12:38:36.959 [info] Extension signature is verified: yandeu.five-server
+2023-04-09 12:38:38.884 [info] Extracted extension to /home/takahashi/.vscode-server/extensions/.d4620e8e-3c7e-444e-918d-d0e3038bc9ac: yandeu.five-server
+2023-04-09 12:38:39.020 [info] Renamed to /home/takahashi/.vscode-server/extensions/yandeu.five-server-0.1.12
+2023-04-09 12:38:39.023 [info] Extracting extension completed. yandeu.five-server
+2023-04-09 12:38:39.083 [info] Extension installed successfully: yandeu.five-server
+2023-04-09 12:38:51.236 [info] Getting Manifest... ritwickdey.liveserver
+2023-04-09 12:38:51.370 [info] Installing extension: ritwickdey.liveserver
+2023-04-09 12:38:54.128 [info] Extension signature is verified: ritwickdey.liveserver
+2023-04-09 12:38:59.392 [info] Extracted extension to /home/takahashi/.vscode-server/extensions/.c418122b-555c-4798-8b9c-63131a141368: ritwickdey.liveserver
+2023-04-09 12:38:59.480 [info] Renamed to /home/takahashi/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2023-04-09 12:38:59.483 [info] Extracting extension completed. ritwickdey.liveserver
+2023-04-09 12:38:59.542 [info] Extension installed successfully: ritwickdey.liveserver
+2023-04-09 12:41:06.835 [info] [127.0.0.1][ce9c8f53][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-04-09 12:41:06.875 [info] [127.0.0.1][b27b65b9][ExtensionHostConnection] <812> Extension Host Process exited with code: 0, signal: null.
